@@ -1,10 +1,12 @@
 package org.example;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("bikini")
 @Scope("prototype")
+@Primary
 public class Bikini implements Outfit {
     @Override
     public void wear() {
