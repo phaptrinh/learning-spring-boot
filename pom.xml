@@ -11,6 +11,7 @@
     <modules>
         <module>spring-boot-1-helloworld</module>
         <module>spring-boot-3-bean-life-cycle</module>
+        <module>spring-boot-4-component-service-repository-annotation</module>
     </modules>
 
     <properties>
