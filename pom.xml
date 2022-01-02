@@ -13,6 +13,7 @@
         <module>spring-boot-3-bean-life-cycle</module>
         <module>spring-boot-4-component-service-repository-annotation</module>
         <module>spring-boot-5-componentscan</module>
+        <module>spring-boot-6-configuration-bean-annotation</module>
     </modules>
 
     <properties>
