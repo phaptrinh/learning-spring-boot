@@ -14,6 +14,8 @@
         <module>spring-boot-4-component-service-repository-annotation</module>
         <module>spring-boot-5-componentscan</module>
         <module>spring-boot-6-configuration-bean-annotation</module>
+        <module>spring-boot-7-properties</module>
+        <module>spring-boot-8-controller</module>
     </modules>
 
     <properties>
@@ -31,6 +33,10 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
     </dependencies>
 
