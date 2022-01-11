@@ -17,6 +17,7 @@
         <module>spring-boot-7-properties</module>
         <module>spring-boot-8-controller</module>
         <module>spring-boot-9-thymeleaf</module>
+        <module>spring-boot-10-todo-web</module>
     </modules>
 
     <properties>
