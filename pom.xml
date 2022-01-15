@@ -20,6 +20,8 @@
         <module>spring-boot-10-todo-web</module>
         <module>spring-boot-11-jpa-mysql</module>
         <module>jpa-hibernate-one-to-one</module>
+        <module>jpa-hibernate-one-to-many-many-to-one</module>
+        <module>jpa-hibernate-many-to-many</module>
     </modules>
 
     <properties>
